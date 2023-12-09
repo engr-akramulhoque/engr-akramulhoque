@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Laravel, Laravel REST API, Django, Django REST API, React JS**
 
-- 📫 How to reach me **akramulhoque.engineergmail.com**
+- 📫 How to reach me **akramulhoque.engineer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
