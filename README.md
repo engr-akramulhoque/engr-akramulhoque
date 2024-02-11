@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D5616AQE81ESa1O5SIg/profile-displaybackgroundimage-shrink_350_1400/0/1702130755400?e=1707350400&v=beta&t=Ge9U9i-fF9l9soGd7THIFl9RVkL3B7Tea_Lb38tWZqU"/>
+<img src="[https://media.licdn.com/dms/image/D5616AQE81ESa1O5SIg/profile-displaybackgroundimage-shrink_350_1400/0/1702130755400?e=1707350400&v=beta&t=Ge9U9i-fF9l9soGd7THIFl9RVkL3B7Tea_Lb38tWZqU](https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/409707774_3698599913744603_8465245334535047000_n.jpg?stp=dst-jpg_s960x960&_nc_cat=107&ccb=1-7&_nc_sid=783fdb&_nc_ohc=qeNsnzEejrcAX8PRdy6&_nc_ht=scontent.fcgp17-1.fna&oh=00_AfBkFFq_1wmrqAvaxIH0BkCd64tpnWr6q0X03XYYR6XAVw&oe=65CDD49A)"/>
 <h1 align="center">Hi 👋, I'm Akramul Hoque</h1>
 <h3 align="center">Software Engineer | Full Stack Web Developer from Bangladesh</h3>
 
