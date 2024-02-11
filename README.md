@@ -1,4 +1,4 @@
-<img src="https://scontent.fcgp17-1.fna.fbcdn.net/v/t39.30808-6/409707774_3698599913744603_8465245334535047000_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=783fdb&_nc_ohc=qeNsnzEejrcAX8PRdy6&_nc_ht=scontent.fcgp17-1.fna&oh=00_AfBSS6PMfBl31Wd3Y30-hcjnJp-uJkjgXzUpWAWm3NUeGg&oe=65CDD49A" alt="engr-akramulhoque banner" />
+<img src=""/>
 <h1 align="center">Hi 👋, I'm Akramul Hoque</h1>
 <h3 align="center">Software Engineer | Full Stack Web Developer from Bangladesh</h3>
 
