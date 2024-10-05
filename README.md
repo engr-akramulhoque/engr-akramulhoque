@@ -1,6 +1,5 @@
 <p align="center" weidth="100%"><img src="https://media.licdn.com/dms/image/D5616AQE81ESa1O5SIg/profile-displaybackgroundimage-shrink_200_800/0/1702130755400?e=2147483647&v=beta&t=kAUMtAt-5YPhvZT8kd57OZ3eGwRd8vh3A8lE9GvN3Hs"/></p>
 <h1 align="center">Hi 👋, I'm Akramul Hoque</h1>
-<p align="center"><img src="https://media.licdn.com/dms/image/D4D03AQG1e1JzwBcJlA/profile-displayphoto-shrink_200_200/0/1690712467140?e=2147483647&v=beta&t=GQuflc7cSS1pnBSfNO5qgtLukoHQYxKr_sbMlJplwuk"/></p>
 <h3 align="center">Software Engineer | Full Stack Web Developer from Bangladesh</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=engr-akramulhoque" alt="engr-akramulhoque" /></a> </p>
