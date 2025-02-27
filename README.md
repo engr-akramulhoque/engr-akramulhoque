@@ -24,5 +24,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=engr-akramulhoque&show_icons=true&locale=en" alt="engr-akramulhoque" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=engr-akramulhoque&" alt="engr-akramulhoque" /></p>
+<p><a href="https://akramulhoque-profile.areiatech.com">Visit My Portfolio</a></p>
 
